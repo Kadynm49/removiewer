@@ -4,8 +4,7 @@ This project is an extension of this original project: https://github.com/Kadynm
 
 I made it into a twitter bot 🤖
 
-https://twitter.com/removiewer
-
+🎥 https://twitter.com/removiewer 🎥
 
 I have the bot running on an ubuntu VM set with the following crontab file:
 
