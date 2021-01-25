@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from bs4 import NavigableString
 from bs4 import Tag
 import numpy as np
-from nltk.tokenize import RegexpTokenizer
+from nltk.tokenize import RegexpTokenizerggg
 from nltk.corpus import stopwords
 from nltk.util import ngrams
 from nltk.corpus import reuters
